@@ -457,7 +457,7 @@ python manage.py runserver
 
 > ส่วนนี้เป็น **starter ที่รันได้จริง** สำหรับ module `school` และมีโครงสร้าง DDD ครบ layer ส่วน `classroom/teacher/student` ให้สร้างตาม pattern เดียวกัน
 
-## B.1 โครงสร้าง
+##  โครงสร้าง
 
 ```text
 fastapi-ddd-school/
